@@ -7,8 +7,8 @@ title: Panagiotis Efstathiou
 description: Personal website - CV
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-url: "https://panagiotiefstathiou.github.io"
-baseurl: "/MySite"
+url: ""
+baseurl: ""
 destination: ./docks
 
 # LANDING PAGE
